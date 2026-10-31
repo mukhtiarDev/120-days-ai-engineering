@@ -1,0 +1,1082 @@
+﻿[
+    {
+        "id":  1,
+        "sequence":  "001",
+        "category":  "01-basics",
+        "topic":  "python-for-ai",
+        "slug":  "python-fundamentals-for-ai",
+        "path":  "01-basics/python-for-ai/lesson_001_python-fundamentals-for-ai.md",
+        "published":  false
+    },
+    {
+        "id":  2,
+        "sequence":  "002",
+        "category":  "01-basics",
+        "topic":  "python-for-ai",
+        "slug":  "python-data-structures",
+        "path":  "01-basics/python-for-ai/lesson_002_python-data-structures.md",
+        "published":  false
+    },
+    {
+        "id":  3,
+        "sequence":  "003",
+        "category":  "01-basics",
+        "topic":  "python-for-ai",
+        "slug":  "python-functions-and-modules",
+        "path":  "01-basics/python-for-ai/lesson_003_python-functions-and-modules.md",
+        "published":  false
+    },
+    {
+        "id":  4,
+        "sequence":  "004",
+        "category":  "01-basics",
+        "topic":  "python-for-ai",
+        "slug":  "numpy-for-ai-engineering",
+        "path":  "01-basics/python-for-ai/lesson_004_numpy-for-ai-engineering.md",
+        "published":  false
+    },
+    {
+        "id":  5,
+        "sequence":  "005",
+        "category":  "01-basics",
+        "topic":  "python-for-ai",
+        "slug":  "pandas-for-ai-data",
+        "path":  "01-basics/python-for-ai/lesson_005_pandas-for-ai-data.md",
+        "published":  false
+    },
+    {
+        "id":  6,
+        "sequence":  "006",
+        "category":  "01-basics",
+        "topic":  "llm-fundamentals",
+        "slug":  "what-is-an-llm",
+        "path":  "01-basics/llm-fundamentals/lesson_006_what-is-an-llm.md",
+        "published":  false
+    },
+    {
+        "id":  7,
+        "sequence":  "007",
+        "category":  "01-basics",
+        "topic":  "llm-fundamentals",
+        "slug":  "transformer-architecture",
+        "path":  "01-basics/llm-fundamentals/lesson_007_transformer-architecture.md",
+        "published":  false
+    },
+    {
+        "id":  8,
+        "sequence":  "008",
+        "category":  "01-basics",
+        "topic":  "llm-fundamentals",
+        "slug":  "tokens-and-tokenization",
+        "path":  "01-basics/llm-fundamentals/lesson_008_tokens-and-tokenization.md",
+        "published":  false
+    },
+    {
+        "id":  9,
+        "sequence":  "009",
+        "category":  "01-basics",
+        "topic":  "llm-fundamentals",
+        "slug":  "context-windows",
+        "path":  "01-basics/llm-fundamentals/lesson_009_context-windows.md",
+        "published":  false
+    },
+    {
+        "id":  10,
+        "sequence":  "010",
+        "category":  "01-basics",
+        "topic":  "llm-fundamentals",
+        "slug":  "attention-mechanism",
+        "path":  "01-basics/llm-fundamentals/lesson_010_attention-mechanism.md",
+        "published":  false
+    },
+    {
+        "id":  11,
+        "sequence":  "011",
+        "category":  "01-basics",
+        "topic":  "llm-fundamentals",
+        "slug":  "inference-and-generation",
+        "path":  "01-basics/llm-fundamentals/lesson_011_inference-and-generation.md",
+        "published":  false
+    },
+    {
+        "id":  12,
+        "sequence":  "012",
+        "category":  "01-basics",
+        "topic":  "llm-fundamentals",
+        "slug":  "temperature-and-sampling",
+        "path":  "01-basics/llm-fundamentals/lesson_012_temperature-and-sampling.md",
+        "published":  false
+    },
+    {
+        "id":  13,
+        "sequence":  "013",
+        "category":  "01-basics",
+        "topic":  "embeddings",
+        "slug":  "embedding-fundamentals",
+        "path":  "01-basics/embeddings/lesson_013_embedding-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  14,
+        "sequence":  "014",
+        "category":  "01-basics",
+        "topic":  "embeddings",
+        "slug":  "embedding-models",
+        "path":  "01-basics/embeddings/lesson_014_embedding-models.md",
+        "published":  false
+    },
+    {
+        "id":  15,
+        "sequence":  "015",
+        "category":  "01-basics",
+        "topic":  "embeddings",
+        "slug":  "similarity-search",
+        "path":  "01-basics/embeddings/lesson_015_similarity-search.md",
+        "published":  false
+    },
+    {
+        "id":  16,
+        "sequence":  "016",
+        "category":  "01-basics",
+        "topic":  "embeddings",
+        "slug":  "cosine-similarity",
+        "path":  "01-basics/embeddings/lesson_016_cosine-similarity.md",
+        "published":  false
+    },
+    {
+        "id":  17,
+        "sequence":  "017",
+        "category":  "01-basics",
+        "topic":  "vector-databases",
+        "slug":  "vector-database-fundamentals",
+        "path":  "01-basics/vector-databases/lesson_017_vector-database-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  18,
+        "sequence":  "018",
+        "category":  "01-basics",
+        "topic":  "vector-databases",
+        "slug":  "faiss-fundamentals",
+        "path":  "01-basics/vector-databases/lesson_018_faiss-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  19,
+        "sequence":  "019",
+        "category":  "01-basics",
+        "topic":  "vector-databases",
+        "slug":  "chroma-fundamentals",
+        "path":  "01-basics/vector-databases/lesson_019_chroma-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  20,
+        "sequence":  "020",
+        "category":  "01-basics",
+        "topic":  "rag",
+        "slug":  "rag-architecture",
+        "path":  "01-basics/rag/lesson_020_rag-architecture.md",
+        "published":  false
+    },
+    {
+        "id":  21,
+        "sequence":  "021",
+        "category":  "01-basics",
+        "topic":  "rag",
+        "slug":  "document-loading",
+        "path":  "01-basics/rag/lesson_021_document-loading.md",
+        "published":  false
+    },
+    {
+        "id":  22,
+        "sequence":  "022",
+        "category":  "01-basics",
+        "topic":  "rag",
+        "slug":  "text-chunking",
+        "path":  "01-basics/rag/lesson_022_text-chunking.md",
+        "published":  false
+    },
+    {
+        "id":  23,
+        "sequence":  "023",
+        "category":  "01-basics",
+        "topic":  "rag",
+        "slug":  "embedding-generation",
+        "path":  "01-basics/rag/lesson_023_embedding-generation.md",
+        "published":  false
+    },
+    {
+        "id":  24,
+        "sequence":  "024",
+        "category":  "01-basics",
+        "topic":  "rag",
+        "slug":  "vector-indexing",
+        "path":  "01-basics/rag/lesson_024_vector-indexing.md",
+        "published":  false
+    },
+    {
+        "id":  25,
+        "sequence":  "025",
+        "category":  "01-basics",
+        "topic":  "rag",
+        "slug":  "retrieval-pipeline",
+        "path":  "01-basics/rag/lesson_025_retrieval-pipeline.md",
+        "published":  false
+    },
+    {
+        "id":  26,
+        "sequence":  "026",
+        "category":  "01-basics",
+        "topic":  "rag",
+        "slug":  "prompt-grounding",
+        "path":  "01-basics/rag/lesson_026_prompt-grounding.md",
+        "published":  false
+    },
+    {
+        "id":  27,
+        "sequence":  "027",
+        "category":  "01-basics",
+        "topic":  "advanced-rag",
+        "slug":  "hybrid-search",
+        "path":  "01-basics/advanced-rag/lesson_027_hybrid-search.md",
+        "published":  false
+    },
+    {
+        "id":  28,
+        "sequence":  "028",
+        "category":  "01-basics",
+        "topic":  "advanced-rag",
+        "slug":  "metadata-filtering",
+        "path":  "01-basics/advanced-rag/lesson_028_metadata-filtering.md",
+        "published":  false
+    },
+    {
+        "id":  29,
+        "sequence":  "029",
+        "category":  "01-basics",
+        "topic":  "advanced-rag",
+        "slug":  "reranking",
+        "path":  "01-basics/advanced-rag/lesson_029_reranking.md",
+        "published":  false
+    },
+    {
+        "id":  30,
+        "sequence":  "030",
+        "category":  "01-basics",
+        "topic":  "advanced-rag",
+        "slug":  "query-transformation",
+        "path":  "01-basics/advanced-rag/lesson_030_query-transformation.md",
+        "published":  false
+    },
+    {
+        "id":  31,
+        "sequence":  "031",
+        "category":  "01-basics",
+        "topic":  "advanced-rag",
+        "slug":  "multi-query-retrieval",
+        "path":  "01-basics/advanced-rag/lesson_031_multi-query-retrieval.md",
+        "published":  false
+    },
+    {
+        "id":  32,
+        "sequence":  "032",
+        "category":  "01-basics",
+        "topic":  "agents",
+        "slug":  "agent-fundamentals",
+        "path":  "01-basics/agents/lesson_032_agent-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  33,
+        "sequence":  "033",
+        "category":  "01-basics",
+        "topic":  "agents",
+        "slug":  "tool-calling",
+        "path":  "01-basics/agents/lesson_033_tool-calling.md",
+        "published":  false
+    },
+    {
+        "id":  34,
+        "sequence":  "034",
+        "category":  "01-basics",
+        "topic":  "agents",
+        "slug":  "agent-memory",
+        "path":  "01-basics/agents/lesson_034_agent-memory.md",
+        "published":  false
+    },
+    {
+        "id":  35,
+        "sequence":  "035",
+        "category":  "01-basics",
+        "topic":  "agents",
+        "slug":  "multi-agent-systems",
+        "path":  "01-basics/agents/lesson_035_multi-agent-systems.md",
+        "published":  false
+    },
+    {
+        "id":  36,
+        "sequence":  "036",
+        "category":  "01-basics",
+        "topic":  "frameworks",
+        "slug":  "langchain-fundamentals",
+        "path":  "01-basics/frameworks/lesson_036_langchain-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  37,
+        "sequence":  "037",
+        "category":  "01-basics",
+        "topic":  "frameworks",
+        "slug":  "langgraph-fundamentals",
+        "path":  "01-basics/frameworks/lesson_037_langgraph-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  38,
+        "sequence":  "038",
+        "category":  "01-basics",
+        "topic":  "frameworks",
+        "slug":  "model-context-protocol",
+        "path":  "01-basics/frameworks/lesson_038_model-context-protocol.md",
+        "published":  false
+    },
+    {
+        "id":  39,
+        "sequence":  "039",
+        "category":  "01-basics",
+        "topic":  "optimization",
+        "slug":  "quantization-fundamentals",
+        "path":  "01-basics/optimization/lesson_039_quantization-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  40,
+        "sequence":  "040",
+        "category":  "01-basics",
+        "topic":  "optimization",
+        "slug":  "lora-and-qlora",
+        "path":  "01-basics/optimization/lesson_040_lora-and-qlora.md",
+        "published":  false
+    },
+    {
+        "id":  41,
+        "sequence":  "041",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "evaluation-fundamentals",
+        "slug":  "why-evaluate-llm-systems",
+        "path":  "02-evaluation-and-observability/evaluation-fundamentals/lesson_041_why-evaluate-llm-systems.md",
+        "published":  false
+    },
+    {
+        "id":  42,
+        "sequence":  "042",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "evaluation-fundamentals",
+        "slug":  "evaluation-datasets",
+        "path":  "02-evaluation-and-observability/evaluation-fundamentals/lesson_042_evaluation-datasets.md",
+        "published":  false
+    },
+    {
+        "id":  43,
+        "sequence":  "043",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "evaluation-fundamentals",
+        "slug":  "evaluation-metrics",
+        "path":  "02-evaluation-and-observability/evaluation-fundamentals/lesson_043_evaluation-metrics.md",
+        "published":  false
+    },
+    {
+        "id":  44,
+        "sequence":  "044",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "evaluation-fundamentals",
+        "slug":  "exact-match-and-semantic-similarity",
+        "path":  "02-evaluation-and-observability/evaluation-fundamentals/lesson_044_exact-match-and-semantic-similarity.md",
+        "published":  false
+    },
+    {
+        "id":  45,
+        "sequence":  "045",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "evaluation-fundamentals",
+        "slug":  "automated-vs-human-evaluation",
+        "path":  "02-evaluation-and-observability/evaluation-fundamentals/lesson_045_automated-vs-human-evaluation.md",
+        "published":  false
+    },
+    {
+        "id":  46,
+        "sequence":  "046",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "rag-evaluation",
+        "slug":  "ragas-fundamentals",
+        "path":  "02-evaluation-and-observability/rag-evaluation/lesson_046_ragas-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  47,
+        "sequence":  "047",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "rag-evaluation",
+        "slug":  "faithfulness",
+        "path":  "02-evaluation-and-observability/rag-evaluation/lesson_047_faithfulness.md",
+        "published":  false
+    },
+    {
+        "id":  48,
+        "sequence":  "048",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "rag-evaluation",
+        "slug":  "answer-relevancy",
+        "path":  "02-evaluation-and-observability/rag-evaluation/lesson_048_answer-relevancy.md",
+        "published":  false
+    },
+    {
+        "id":  49,
+        "sequence":  "049",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "rag-evaluation",
+        "slug":  "context-precision",
+        "path":  "02-evaluation-and-observability/rag-evaluation/lesson_049_context-precision.md",
+        "published":  false
+    },
+    {
+        "id":  50,
+        "sequence":  "050",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "rag-evaluation",
+        "slug":  "context-recall",
+        "path":  "02-evaluation-and-observability/rag-evaluation/lesson_050_context-recall.md",
+        "published":  false
+    },
+    {
+        "id":  51,
+        "sequence":  "051",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "rag-evaluation",
+        "slug":  "retrieval-evaluation",
+        "path":  "02-evaluation-and-observability/rag-evaluation/lesson_051_retrieval-evaluation.md",
+        "published":  false
+    },
+    {
+        "id":  52,
+        "sequence":  "052",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "rag-evaluation",
+        "slug":  "generation-evaluation",
+        "path":  "02-evaluation-and-observability/rag-evaluation/lesson_052_generation-evaluation.md",
+        "published":  false
+    },
+    {
+        "id":  53,
+        "sequence":  "053",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "llm-as-judge",
+        "slug":  "llm-as-a-judge-fundamentals",
+        "path":  "02-evaluation-and-observability/llm-as-judge/lesson_053_llm-as-a-judge-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  54,
+        "sequence":  "054",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "llm-as-judge",
+        "slug":  "judge-rubrics",
+        "path":  "02-evaluation-and-observability/llm-as-judge/lesson_054_judge-rubrics.md",
+        "published":  false
+    },
+    {
+        "id":  55,
+        "sequence":  "055",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "llm-as-judge",
+        "slug":  "pairwise-evaluation",
+        "path":  "02-evaluation-and-observability/llm-as-judge/lesson_055_pairwise-evaluation.md",
+        "published":  false
+    },
+    {
+        "id":  56,
+        "sequence":  "056",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "llm-as-judge",
+        "slug":  "judge-bias-and-calibration",
+        "path":  "02-evaluation-and-observability/llm-as-judge/lesson_056_judge-bias-and-calibration.md",
+        "published":  false
+    },
+    {
+        "id":  57,
+        "sequence":  "057",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "agent-evaluation",
+        "slug":  "agent-task-success",
+        "path":  "02-evaluation-and-observability/agent-evaluation/lesson_057_agent-task-success.md",
+        "published":  false
+    },
+    {
+        "id":  58,
+        "sequence":  "058",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "agent-evaluation",
+        "slug":  "tool-selection-evaluation",
+        "path":  "02-evaluation-and-observability/agent-evaluation/lesson_058_tool-selection-evaluation.md",
+        "published":  false
+    },
+    {
+        "id":  59,
+        "sequence":  "059",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "agent-evaluation",
+        "slug":  "trajectory-evaluation",
+        "path":  "02-evaluation-and-observability/agent-evaluation/lesson_059_trajectory-evaluation.md",
+        "published":  false
+    },
+    {
+        "id":  60,
+        "sequence":  "060",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "agent-evaluation",
+        "slug":  "agent-safety-evaluation",
+        "path":  "02-evaluation-and-observability/agent-evaluation/lesson_060_agent-safety-evaluation.md",
+        "published":  false
+    },
+    {
+        "id":  61,
+        "sequence":  "061",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "observability",
+        "slug":  "llm-observability-fundamentals",
+        "path":  "02-evaluation-and-observability/observability/lesson_061_llm-observability-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  62,
+        "sequence":  "062",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "observability",
+        "slug":  "distributed-tracing",
+        "path":  "02-evaluation-and-observability/observability/lesson_062_distributed-tracing.md",
+        "published":  false
+    },
+    {
+        "id":  63,
+        "sequence":  "063",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "observability",
+        "slug":  "prompt-and-response-logging",
+        "path":  "02-evaluation-and-observability/observability/lesson_063_prompt-and-response-logging.md",
+        "published":  false
+    },
+    {
+        "id":  64,
+        "sequence":  "064",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "observability",
+        "slug":  "langfuse-fundamentals",
+        "path":  "02-evaluation-and-observability/observability/lesson_064_langfuse-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  65,
+        "sequence":  "065",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "observability",
+        "slug":  "trace-analysis",
+        "path":  "02-evaluation-and-observability/observability/lesson_065_trace-analysis.md",
+        "published":  false
+    },
+    {
+        "id":  66,
+        "sequence":  "066",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "observability",
+        "slug":  "debugging-rag-pipelines",
+        "path":  "02-evaluation-and-observability/observability/lesson_066_debugging-rag-pipelines.md",
+        "published":  false
+    },
+    {
+        "id":  67,
+        "sequence":  "067",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "monitoring",
+        "slug":  "token-usage-monitoring",
+        "path":  "02-evaluation-and-observability/monitoring/lesson_067_token-usage-monitoring.md",
+        "published":  false
+    },
+    {
+        "id":  68,
+        "sequence":  "068",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "monitoring",
+        "slug":  "latency-monitoring",
+        "path":  "02-evaluation-and-observability/monitoring/lesson_068_latency-monitoring.md",
+        "published":  false
+    },
+    {
+        "id":  69,
+        "sequence":  "069",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "monitoring",
+        "slug":  "cost-monitoring",
+        "path":  "02-evaluation-and-observability/monitoring/lesson_069_cost-monitoring.md",
+        "published":  false
+    },
+    {
+        "id":  70,
+        "sequence":  "070",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "monitoring",
+        "slug":  "error-rate-monitoring",
+        "path":  "02-evaluation-and-observability/monitoring/lesson_070_error-rate-monitoring.md",
+        "published":  false
+    },
+    {
+        "id":  71,
+        "sequence":  "071",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "testing",
+        "slug":  "llm-unit-testing",
+        "path":  "02-evaluation-and-observability/testing/lesson_071_llm-unit-testing.md",
+        "published":  false
+    },
+    {
+        "id":  72,
+        "sequence":  "072",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "testing",
+        "slug":  "prompt-regression-testing",
+        "path":  "02-evaluation-and-observability/testing/lesson_072_prompt-regression-testing.md",
+        "published":  false
+    },
+    {
+        "id":  73,
+        "sequence":  "073",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "testing",
+        "slug":  "golden-datasets",
+        "path":  "02-evaluation-and-observability/testing/lesson_073_golden-datasets.md",
+        "published":  false
+    },
+    {
+        "id":  74,
+        "sequence":  "074",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "testing",
+        "slug":  "continuous-evaluation",
+        "path":  "02-evaluation-and-observability/testing/lesson_074_continuous-evaluation.md",
+        "published":  false
+    },
+    {
+        "id":  75,
+        "sequence":  "075",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "testing",
+        "slug":  "evaluation-in-ci",
+        "path":  "02-evaluation-and-observability/testing/lesson_075_evaluation-in-ci.md",
+        "published":  false
+    },
+    {
+        "id":  76,
+        "sequence":  "076",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "testing",
+        "slug":  "model-comparison",
+        "path":  "02-evaluation-and-observability/testing/lesson_076_model-comparison.md",
+        "published":  false
+    },
+    {
+        "id":  77,
+        "sequence":  "077",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "testing",
+        "slug":  "production-feedback-loops",
+        "path":  "02-evaluation-and-observability/testing/lesson_077_production-feedback-loops.md",
+        "published":  false
+    },
+    {
+        "id":  78,
+        "sequence":  "078",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "testing",
+        "slug":  "evaluation-reporting",
+        "path":  "02-evaluation-and-observability/testing/lesson_078_evaluation-reporting.md",
+        "published":  false
+    },
+    {
+        "id":  79,
+        "sequence":  "079",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "testing",
+        "slug":  "failure-analysis",
+        "path":  "02-evaluation-and-observability/testing/lesson_079_failure-analysis.md",
+        "published":  false
+    },
+    {
+        "id":  80,
+        "sequence":  "080",
+        "category":  "02-evaluation-and-observability",
+        "topic":  "testing",
+        "slug":  "evaluation-pipeline-project",
+        "path":  "02-evaluation-and-observability/testing/lesson_080_evaluation-pipeline-project.md",
+        "published":  false
+    },
+    {
+        "id":  81,
+        "sequence":  "081",
+        "category":  "03-llmops-and-production",
+        "topic":  "prompt-management",
+        "slug":  "prompt-engineering-in-production",
+        "path":  "03-llmops-and-production/prompt-management/lesson_081_prompt-engineering-in-production.md",
+        "published":  false
+    },
+    {
+        "id":  82,
+        "sequence":  "082",
+        "category":  "03-llmops-and-production",
+        "topic":  "prompt-management",
+        "slug":  "prompt-templates",
+        "path":  "03-llmops-and-production/prompt-management/lesson_082_prompt-templates.md",
+        "published":  false
+    },
+    {
+        "id":  83,
+        "sequence":  "083",
+        "category":  "03-llmops-and-production",
+        "topic":  "prompt-management",
+        "slug":  "prompt-versioning",
+        "path":  "03-llmops-and-production/prompt-management/lesson_083_prompt-versioning.md",
+        "published":  false
+    },
+    {
+        "id":  84,
+        "sequence":  "084",
+        "category":  "03-llmops-and-production",
+        "topic":  "prompt-management",
+        "slug":  "prompt-registries",
+        "path":  "03-llmops-and-production/prompt-management/lesson_084_prompt-registries.md",
+        "published":  false
+    },
+    {
+        "id":  85,
+        "sequence":  "085",
+        "category":  "03-llmops-and-production",
+        "topic":  "model-routing",
+        "slug":  "model-routing-fundamentals",
+        "path":  "03-llmops-and-production/model-routing/lesson_085_model-routing-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  86,
+        "sequence":  "086",
+        "category":  "03-llmops-and-production",
+        "topic":  "model-routing",
+        "slug":  "model-selection-strategies",
+        "path":  "03-llmops-and-production/model-routing/lesson_086_model-selection-strategies.md",
+        "published":  false
+    },
+    {
+        "id":  87,
+        "sequence":  "087",
+        "category":  "03-llmops-and-production",
+        "topic":  "model-routing",
+        "slug":  "fallback-strategies",
+        "path":  "03-llmops-and-production/model-routing/lesson_087_fallback-strategies.md",
+        "published":  false
+    },
+    {
+        "id":  88,
+        "sequence":  "088",
+        "category":  "03-llmops-and-production",
+        "topic":  "model-routing",
+        "slug":  "multi-model-routing",
+        "path":  "03-llmops-and-production/model-routing/lesson_088_multi-model-routing.md",
+        "published":  false
+    },
+    {
+        "id":  89,
+        "sequence":  "089",
+        "category":  "03-llmops-and-production",
+        "topic":  "caching",
+        "slug":  "llm-response-caching",
+        "path":  "03-llmops-and-production/caching/lesson_089_llm-response-caching.md",
+        "published":  false
+    },
+    {
+        "id":  90,
+        "sequence":  "090",
+        "category":  "03-llmops-and-production",
+        "topic":  "caching",
+        "slug":  "semantic-caching",
+        "path":  "03-llmops-and-production/caching/lesson_090_semantic-caching.md",
+        "published":  false
+    },
+    {
+        "id":  91,
+        "sequence":  "091",
+        "category":  "03-llmops-and-production",
+        "topic":  "caching",
+        "slug":  "cache-invalidation",
+        "path":  "03-llmops-and-production/caching/lesson_091_cache-invalidation.md",
+        "published":  false
+    },
+    {
+        "id":  92,
+        "sequence":  "092",
+        "category":  "03-llmops-and-production",
+        "topic":  "guardrails",
+        "slug":  "input-validation",
+        "path":  "03-llmops-and-production/guardrails/lesson_092_input-validation.md",
+        "published":  false
+    },
+    {
+        "id":  93,
+        "sequence":  "093",
+        "category":  "03-llmops-and-production",
+        "topic":  "guardrails",
+        "slug":  "output-validation",
+        "path":  "03-llmops-and-production/guardrails/lesson_093_output-validation.md",
+        "published":  false
+    },
+    {
+        "id":  94,
+        "sequence":  "094",
+        "category":  "03-llmops-and-production",
+        "topic":  "guardrails",
+        "slug":  "prompt-injection-defense",
+        "path":  "03-llmops-and-production/guardrails/lesson_094_prompt-injection-defense.md",
+        "published":  false
+    },
+    {
+        "id":  95,
+        "sequence":  "095",
+        "category":  "03-llmops-and-production",
+        "topic":  "guardrails",
+        "slug":  "structured-output-validation",
+        "path":  "03-llmops-and-production/guardrails/lesson_095_structured-output-validation.md",
+        "published":  false
+    },
+    {
+        "id":  96,
+        "sequence":  "096",
+        "category":  "03-llmops-and-production",
+        "topic":  "guardrails",
+        "slug":  "pii-detection-and-redaction",
+        "path":  "03-llmops-and-production/guardrails/lesson_096_pii-detection-and-redaction.md",
+        "published":  false
+    },
+    {
+        "id":  97,
+        "sequence":  "097",
+        "category":  "03-llmops-and-production",
+        "topic":  "deployment",
+        "slug":  "llm-deployment-fundamentals",
+        "path":  "03-llmops-and-production/deployment/lesson_097_llm-deployment-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  98,
+        "sequence":  "098",
+        "category":  "03-llmops-and-production",
+        "topic":  "deployment",
+        "slug":  "model-serving",
+        "path":  "03-llmops-and-production/deployment/lesson_098_model-serving.md",
+        "published":  false
+    },
+    {
+        "id":  99,
+        "sequence":  "099",
+        "category":  "03-llmops-and-production",
+        "topic":  "deployment",
+        "slug":  "fastapi-model-serving",
+        "path":  "03-llmops-and-production/deployment/lesson_099_fastapi-model-serving.md",
+        "published":  false
+    },
+    {
+        "id":  100,
+        "sequence":  "100",
+        "category":  "03-llmops-and-production",
+        "topic":  "deployment",
+        "slug":  "containerization",
+        "path":  "03-llmops-and-production/deployment/lesson_100_containerization.md",
+        "published":  false
+    },
+    {
+        "id":  101,
+        "sequence":  "101",
+        "category":  "03-llmops-and-production",
+        "topic":  "deployment",
+        "slug":  "deployment-strategies",
+        "path":  "03-llmops-and-production/deployment/lesson_101_deployment-strategies.md",
+        "published":  false
+    },
+    {
+        "id":  102,
+        "sequence":  "102",
+        "category":  "03-llmops-and-production",
+        "topic":  "mlops",
+        "slug":  "mlops-fundamentals",
+        "path":  "03-llmops-and-production/mlops/lesson_102_mlops-fundamentals.md",
+        "published":  false
+    },
+    {
+        "id":  103,
+        "sequence":  "103",
+        "category":  "03-llmops-and-production",
+        "topic":  "mlops",
+        "slug":  "model-versioning",
+        "path":  "03-llmops-and-production/mlops/lesson_103_model-versioning.md",
+        "published":  false
+    },
+    {
+        "id":  104,
+        "sequence":  "104",
+        "category":  "03-llmops-and-production",
+        "topic":  "mlops",
+        "slug":  "model-registry",
+        "path":  "03-llmops-and-production/mlops/lesson_104_model-registry.md",
+        "published":  false
+    },
+    {
+        "id":  105,
+        "sequence":  "105",
+        "category":  "03-llmops-and-production",
+        "topic":  "mlops",
+        "slug":  "data-versioning",
+        "path":  "03-llmops-and-production/mlops/lesson_105_data-versioning.md",
+        "published":  false
+    },
+    {
+        "id":  106,
+        "sequence":  "106",
+        "category":  "03-llmops-and-production",
+        "topic":  "mlops",
+        "slug":  "experiment-tracking",
+        "path":  "03-llmops-and-production/mlops/lesson_106_experiment-tracking.md",
+        "published":  false
+    },
+    {
+        "id":  107,
+        "sequence":  "107",
+        "category":  "03-llmops-and-production",
+        "topic":  "monitoring",
+        "slug":  "model-drift-detection",
+        "path":  "03-llmops-and-production/monitoring/lesson_107_model-drift-detection.md",
+        "published":  false
+    },
+    {
+        "id":  108,
+        "sequence":  "108",
+        "category":  "03-llmops-and-production",
+        "topic":  "monitoring",
+        "slug":  "data-drift-detection",
+        "path":  "03-llmops-and-production/monitoring/lesson_108_data-drift-detection.md",
+        "published":  false
+    },
+    {
+        "id":  109,
+        "sequence":  "109",
+        "category":  "03-llmops-and-production",
+        "topic":  "monitoring",
+        "slug":  "production-model-monitoring",
+        "path":  "03-llmops-and-production/monitoring/lesson_109_production-model-monitoring.md",
+        "published":  false
+    },
+    {
+        "id":  110,
+        "sequence":  "110",
+        "category":  "03-llmops-and-production",
+        "topic":  "optimization",
+        "slug":  "cpu-inference",
+        "path":  "03-llmops-and-production/optimization/lesson_110_cpu-inference.md",
+        "published":  false
+    },
+    {
+        "id":  111,
+        "sequence":  "111",
+        "category":  "03-llmops-and-production",
+        "topic":  "optimization",
+        "slug":  "quantized-model-inference",
+        "path":  "03-llmops-and-production/optimization/lesson_111_quantized-model-inference.md",
+        "published":  false
+    },
+    {
+        "id":  112,
+        "sequence":  "112",
+        "category":  "03-llmops-and-production",
+        "topic":  "optimization",
+        "slug":  "batch-inference",
+        "path":  "03-llmops-and-production/optimization/lesson_112_batch-inference.md",
+        "published":  false
+    },
+    {
+        "id":  113,
+        "sequence":  "113",
+        "category":  "03-llmops-and-production",
+        "topic":  "optimization",
+        "slug":  "continuous-batching",
+        "path":  "03-llmops-and-production/optimization/lesson_113_continuous-batching.md",
+        "published":  false
+    },
+    {
+        "id":  114,
+        "sequence":  "114",
+        "category":  "03-llmops-and-production",
+        "topic":  "optimization",
+        "slug":  "streaming-generation",
+        "path":  "03-llmops-and-production/optimization/lesson_114_streaming-generation.md",
+        "published":  false
+    },
+    {
+        "id":  115,
+        "sequence":  "115",
+        "category":  "03-llmops-and-production",
+        "topic":  "optimization",
+        "slug":  "memory-optimization",
+        "path":  "03-llmops-and-production/optimization/lesson_115_memory-optimization.md",
+        "published":  false
+    },
+    {
+        "id":  116,
+        "sequence":  "116",
+        "category":  "03-llmops-and-production",
+        "topic":  "optimization",
+        "slug":  "inference-latency-optimization",
+        "path":  "03-llmops-and-production/optimization/lesson_116_inference-latency-optimization.md",
+        "published":  false
+    },
+    {
+        "id":  117,
+        "sequence":  "117",
+        "category":  "03-llmops-and-production",
+        "topic":  "optimization",
+        "slug":  "throughput-optimization",
+        "path":  "03-llmops-and-production/optimization/lesson_117_throughput-optimization.md",
+        "published":  false
+    },
+    {
+        "id":  118,
+        "sequence":  "118",
+        "category":  "03-llmops-and-production",
+        "topic":  "production-architecture",
+        "slug":  "production-rag-architecture",
+        "path":  "03-llmops-and-production/production-architecture/lesson_118_production-rag-architecture.md",
+        "published":  false
+    },
+    {
+        "id":  119,
+        "sequence":  "119",
+        "category":  "03-llmops-and-production",
+        "topic":  "production-architecture",
+        "slug":  "production-agent-architecture",
+        "path":  "03-llmops-and-production/production-architecture/lesson_119_production-agent-architecture.md",
+        "published":  false
+    },
+    {
+        "id":  120,
+        "sequence":  "120",
+        "category":  "03-llmops-and-production",
+        "topic":  "production-architecture",
+        "slug":  "end-to-end-llmops-pipeline",
+        "path":  "03-llmops-and-production/production-architecture/lesson_120_end-to-end-llmops-pipeline.md",
+        "published":  false
+    }
+]
