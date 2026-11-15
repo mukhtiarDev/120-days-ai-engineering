@@ -1,11 +1,12 @@
 {
   "published_files": [
-    "01-basics/llm-fundamentals/lesson_006_what-is-an-llm.md",
-    "01-basics/llm-fundamentals/lesson_008_tokens-and-tokenization.md",
-    "01-basics/llm-fundamentals/lesson_010_attention-mechanism.md",
-    "01-basics/llm-fundamentals/lesson_011_inference-and-generation.md",
     "01-basics/llm-fundamentals/lesson_009_context-windows.md",
-    "01-basics/llm-fundamentals/lesson_012_temperature-and-sampling.md"
+    "01-basics/llm-fundamentals/lesson_012_temperature-and-sampling.md",
+    "01-basics/llm-fundamentals/lesson_010_attention-mechanism.md",
+    "01-basics/llm-fundamentals/lesson_008_tokens-and-tokenization.md",
+    "01-basics/llm-fundamentals/lesson_011_inference-and-generation.md",
+    "01-basics/llm-fundamentals/lesson_006_what-is-an-llm.md",
+    "01-basics/advanced-rag/lesson_029_reranking.md"
   ],
-  "last_published_date": "2026-11-13T06:22:16.479115+00:00"
+  "last_published_date": "2026-11-15T06:08:02.460235+00:00"
 }
