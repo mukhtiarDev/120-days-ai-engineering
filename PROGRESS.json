@@ -1,15 +1,16 @@
 {
   "published_files": [
-    "01-basics/rag/lesson_021_document-loading.md",
-    "01-basics/llm-fundamentals/lesson_009_context-windows.md",
-    "01-basics/llm-fundamentals/lesson_012_temperature-and-sampling.md",
-    "01-basics/agents/lesson_032_agent-fundamentals.md",
     "01-basics/llm-fundamentals/lesson_008_tokens-and-tokenization.md",
+    "01-basics/agents/lesson_032_agent-fundamentals.md",
     "01-basics/agents/lesson_033_tool-calling.md",
+    "01-basics/rag/lesson_021_document-loading.md",
     "01-basics/llm-fundamentals/lesson_011_inference-and-generation.md",
+    "01-basics/llm-fundamentals/lesson_010_attention-mechanism.md",
     "01-basics/llm-fundamentals/lesson_006_what-is-an-llm.md",
+    "01-basics/agents/lesson_035_multi-agent-systems.md",
     "01-basics/advanced-rag/lesson_029_reranking.md",
-    "01-basics/llm-fundamentals/lesson_010_attention-mechanism.md"
+    "01-basics/llm-fundamentals/lesson_012_temperature-and-sampling.md",
+    "01-basics/llm-fundamentals/lesson_009_context-windows.md"
   ],
-  "last_published_date": "2026-11-22T06:27:13.355301+00:00"
+  "last_published_date": "2026-11-24T09:39:48.421584+00:00"
 }
